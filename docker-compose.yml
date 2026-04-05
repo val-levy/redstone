@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  gateway:
+    build: ./apps/gateway
+    ports:
+      - '8080:8080'
+  web:
+    build:
+      context: ./apps/web
+    ports:
+      - '3000:3000'

@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "apps/gateway",
+  "services/entity-service",
+  "services/graph-service",
+  "packages/shared-rust"
+]

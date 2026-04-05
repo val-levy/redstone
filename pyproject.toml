@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "gotham"
+version = "0.1.0"
+description = "Gotham monorepo"
+
+[tool.poetry.dependencies]
+python = "^3.12"
