@@ -1,6 +1,6 @@
-# Gotham
+# Redstone
 
-Gotham is a full-stack platform monorepo scaffold for a modular entity and analytics system. It includes a Next.js frontend, a Rust gateway/BFF, multiple backend services, shared packages, infrastructure definitions, operational tooling, and documentation.
+Redstone is a full-stack platform monorepo scaffold for a modular entity and analytics system. It includes a Next.js frontend, a Rust gateway/BFF, multiple backend services, shared packages, infrastructure definitions, operational tooling, and documentation.
 
 ## Quickstart
 
